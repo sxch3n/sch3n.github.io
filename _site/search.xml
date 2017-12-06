@@ -2,6 +2,33 @@
 <search>
   
     <entry>
+      <title><![CDATA[How To Set Up Raspberry Pi 3 Model B]]></title>
+      <url>/2017/11/01/how-to-set-up-raspberry-pi-3-Model-B/</url>
+      <content type="html"><![CDATA[<h1 id="set-up-raspberry-pi-3-with-only-ethernet-cable">Set Up Raspberry Pi 3 with Only Ethernet Cable</h1>
+
+<p>Usually, it’s recommended to set up Raspberry Pi 3 Model B with a HDMI monitor and mouse and as well as keyboard. However sometimes these things are beyond accessibility. Therefore, we need to find another approach to setup our Raspberry Pi 3. All we need is:</p>
+
+<ul>
+  <li>Raspberry pi 3 Model B with microSD card</li>
+  <li>Laptop</li>
+  <li>Ethernet Cable</li>
+</ul>
+
+<p>This approach was successful implemented with</p>
+<ul>
+  <li>Raspbian</li>
+</ul>
+]]></content>
+      <categories>
+        
+      </categories>
+      <tags>
+        
+      </tags>
+      <tags></tags>
+    </entry>
+  
+    <entry>
       <title><![CDATA[Next Theme Tutorial]]></title>
       <url>/tutorial/2017/07/20/next-tutorial/</url>
       <content type="html"><![CDATA[<blockquote>

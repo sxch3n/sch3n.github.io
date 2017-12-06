@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-05T02:05:50-08:00</updated><id>http://localhost:4000/</id><title type="html">NexT</title><subtitle>Elegant theme for Jekyll.</subtitle><author><name>John Doe</name></author><entry><title type="html">Next Theme Tutorial</title><link href="http://localhost:4000/tutorial/2017/07/20/next-tutorial/" rel="alternate" type="text/html" title="Next Theme Tutorial" /><published>2017-07-20T00:00:00-07:00</published><updated>2017-07-20T00:00:00-07:00</updated><id>http://localhost:4000/tutorial/2017/07/20/next-tutorial</id><content type="html" xml:base="http://localhost:4000/tutorial/2017/07/20/next-tutorial/">&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-05T23:01:17-08:00</updated><id>http://localhost:4000/</id><title type="html">NexT</title><author><name>John Doe</name></author><entry><title type="html">How To Set Up Raspberry Pi 3 Model B</title><link href="http://localhost:4000/2017/11/01/how-to-set-up-raspberry-pi-3-Model-B/" rel="alternate" type="text/html" title="How To Set Up Raspberry Pi 3 Model B" /><published>2017-11-01T00:00:00-07:00</published><updated>2017-11-01T00:00:00-07:00</updated><id>http://localhost:4000/2017/11/01/how-to-set-up-raspberry-pi-3-Model-B</id><content type="html" xml:base="http://localhost:4000/2017/11/01/how-to-set-up-raspberry-pi-3-Model-B/">&lt;h1 id=&quot;set-up-raspberry-pi-3-with-only-ethernet-cable&quot;&gt;Set Up Raspberry Pi 3 with Only Ethernet Cable&lt;/h1&gt;
+
+&lt;p&gt;Usually, it’s recommended to set up Raspberry Pi 3 Model B with a HDMI monitor and mouse and as well as keyboard. However sometimes these things are beyond accessibility. Therefore, we need to find another approach to setup our Raspberry Pi 3. All we need is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Raspberry pi 3 Model B with microSD card&lt;/li&gt;
+  &lt;li&gt;Laptop&lt;/li&gt;
+  &lt;li&gt;Ethernet Cable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This approach was successful implemented with&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Raspbian&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>John Doe</name></author><summary type="html">Set Up Raspberry Pi 3 with Only Ethernet Cable</summary></entry><entry><title type="html">Next Theme Tutorial</title><link href="http://localhost:4000/tutorial/2017/07/20/next-tutorial/" rel="alternate" type="text/html" title="Next Theme Tutorial" /><published>2017-07-20T00:00:00-07:00</published><updated>2017-07-20T00:00:00-07:00</updated><id>http://localhost:4000/tutorial/2017/07/20/next-tutorial</id><content type="html" xml:base="http://localhost:4000/tutorial/2017/07/20/next-tutorial/">&lt;blockquote&gt;
   &lt;p&gt;NexT is a high quality elegant &lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme ported from &lt;a href=&quot;https://github.com/iissnan/hexo-theme-next&quot;&gt;Hexo Next&lt;/a&gt;. It is crafted from scratch, with love.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -366,18 +379,4 @@ underscores with a backslash like so &lt;code class=&quot;highlighter-rouge&quot
 
 &lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;From &lt;a href=&quot;http://lipsum.sugutsukaeru.jp/index.cgi&quot;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>John Doe</name></author><summary type="html">This is a Japanese test post.</summary></entry><entry><title type="html">中文測試</title><link href="http://localhost:4000/test/test/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/" rel="alternate" type="text/html" title="中文測試" /><published>2013-12-24T15:31:30-08:00</published><updated>2013-12-24T15:31:30-08:00</updated><id>http://localhost:4000/test/test/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6</id><content type="html" xml:base="http://localhost:4000/test/test/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/">&lt;p&gt;This is a Chinese test post.&lt;/p&gt;
-
-&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
-
-&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
-
-&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
-
-&lt;p&gt;國新故。&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;工步他始能詩的，裝進分星海演意學值例道……於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;From &lt;a href=&quot;http://www.richyli.com/tool/loremipsum/&quot;&gt;亂數假文產生器 - Chinese Lorem Ipsum&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>John Doe</name></author><summary type="html">This is a Chinese test post.</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;From &lt;a href=&quot;http://lipsum.sugutsukaeru.jp/index.cgi&quot;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>John Doe</name></author><summary type="html">This is a Japanese test post.</summary></entry></feed>
